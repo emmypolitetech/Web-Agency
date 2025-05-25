@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /index.php
+Allow: /services.php
+Allow: /about.php
+Allow: /contact.php
+
+Disallow: /includes/
+Disallow: /process.php
+Disallow: /.htaccess
+Disallow: /error_log
+Disallow: /cgi-bin/
+
+Sitemap: https://www.kuriosbaseloue.com/sitemap.xml 
